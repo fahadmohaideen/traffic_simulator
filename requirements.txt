@@ -1,0 +1,9 @@
+osmnx==1.9.3
+numpy>=1.21
+pyqtgraph>=0.13.3
+PyQt5>=5.15.9
+networkx>=3.2.1
+scipy>=1.11.4
+geopy>=2.4.1
+matplotlib>=3.8.0
+pandas>=2.1.3
