@@ -21,7 +21,6 @@ import queue
 import math
 from geopy import distance
 import time
-from iterators import TimeoutIterator
 import cProfile
 import pstats
 from math import radians, cos
