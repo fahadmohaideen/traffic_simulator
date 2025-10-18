@@ -60,7 +60,7 @@ Launch the main program:
 ```
 python traffic_simulator.py
 ```
-You’ll see a live GUI window with roads plotted and simulated cars moving along their routes.
+You’ll see a live GUI window with roads plotted and simulated cars moving along their routes. However, please be patient as it can take up to 30 seconds for the GUI to load after the command has been entered
 
 ## How to use
 
