@@ -1,4 +1,4 @@
-osmnx==1.9.3
+osmnx==2.0.6
 numpy>=1.21
 pyqtgraph>=0.13.3
 PyQt5>=5.15.9
